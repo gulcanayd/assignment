@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\piworks\bin\Debug\net6.0\piworks.exe
+C:\Users\User\Desktop\piworks\bin\Debug\net6.0\piworks.deps.json
+C:\Users\User\Desktop\piworks\bin\Debug\net6.0\piworks.runtimeconfig.json
+C:\Users\User\Desktop\piworks\bin\Debug\net6.0\piworks.dll
+C:\Users\User\Desktop\piworks\bin\Debug\net6.0\piworks.pdb
+C:\Users\User\Desktop\piworks\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.AssemblyInfo.cs
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.csproj.CopyComplete
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.dll
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\refint\piworks.dll
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.pdb
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\piworks.genruntimeconfig.cache
+C:\Users\User\Desktop\piworks\obj\Debug\net6.0\ref\piworks.dll

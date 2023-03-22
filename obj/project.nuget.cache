@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eleYYr/JYaG89HPSfr/l0CgP504cUZ5o0BoR1PN35pANvvXsQFlHXVhXZGNR1NHkIu0S9IUGP/81ZlDHlFKgmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\piworks\\piworks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
